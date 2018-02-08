@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>EDUCACION</title>
+    <link rel="shortcut icon" href="IMG/LOGO.png">
+  </head>
+  <body>
+    <svg>
+    <image  xlink:href="IMG/BGLM.svg" height="230PX"  width="230PX"   >
+
+    </svg>
+
+    <h1> HOJA DE VIDA</h1>
+    <h2>BRYAN  GABRIEL LOPEZ MENDEZ </h2>
+
+    <UL><li><a href="index.html">INICIO</a></li></UL>
+    <UL><li><a href="educacion.html">EDUCACION</a></li></UL>
+    <UL><li><a href="experiencia.html"> EXPERIENCIA  </a> <br></li></UL>
+<h3>EDUCACION</h3>
+<table border="1">
+  <thead>
+    <tr>
+      <th>Anio</th>
+      <th>intitucion</th>
+      <th>lugar</th>
+      <th>culmino?</th>
+    </tr>
+  </thead>
+<tbody>
+  <tr>   <td>200</td>
+   <td> san fracisco </td>
+  <td>managua C.sandino</td>
+    <td>si</td></tr>
+<tr>
+  <td>2012</td>
+  <td>UNI</td>
+  <td>managua nicaragua</td>
+  <td>no</td>
+</tr>
+</tbody>
+</table>
+<h3> agregar educacion </h3>
+
+<p>
+año: <select class="" name="">
+
+
+  <option value="1">2016</option>
+    <option value="2">2017</option>
+      <option value="3">2018</option>
+
+
+
+</select><br>
+
+intitucioin: <input type="text" name="" value=""><br>
+<br>
+lugar:<br>
+           <textarea name="lugar" rows="8" cols="20"></textarea><br>
+
+           <form action="">
+             <Label>culmino?:<br>
+   <input type="radio" name="apro" value=""> si<br>
+    <input type="radio" name="apro" value=""> no <br>
+
+
+           </form>
+
+           <footer>
+
+
+             <ul> <li><strong>CORREO ELCTRONICO:</strong> <a href="mailto:bryanglm19941@hotmail.com">bryanglm19941@hotmail.com</a> </li> </ul>
+           <ul> <li> <strong>dirrecion:</strong>  managua nicaragua ciudad sandino </li> </ul>
+           <ul> <li><strong>numero:</strong>7507787</li> </ul>
+           </footer>
+
+
+
+</p>
+
+
+
+
+  </body>
+
+
+</html>
