@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>MI PORTAFOLOIO</title>
+<link rel="shortcut icon" href="IMG/LOGO.png">
+  </head>
+  <body>
+<svg>
+<image  xlink:href="IMG/BGLM.svg" height="230PX"  width="230PX"   >
+
+</svg>
+
+<h1> HOJA DE VIDA</h1>
+<h2>BRYAN  GABRIEL LOPEZ MENDEZ </h2>
+<UL><li><a href="index.html">INICIO</a></li></UL>
+<UL><li><a href="educacion.html">EDUCACION</a></li></UL>
+<UL><li><a href="experiencia.html"> EXPERIENCIA  </a> <br></li></UL>
+<h3>INFORMACION PERSONAL </h3>
+<p> <img src="IMG/BRYAN.JPG" height="150PX"  width="150PX"> </p>
+<p>
+<ul>
+  <li>Nombre : Bryan Gabriel</li>
+<li> Apellidos: Lopez Mendez              </li>
+</ul></p>
+<h4>INFORMACION DE PERFIL</h4>
+<p>
+<ul> <li><strong>PERFIL:</strong>ING.SISTEMAS, DESARROLADOR WEB</li> </ul>
+<ul> <li><strong>IDIOMAS:</strong>ESPAÑOL</li> </ul>
+
+</p>
+
+<footer>
+
+
+  <ul> <li><strong>CORREO ELCTRONICO:</strong> <a href="mailto:bryanglm19941@hotmail.com">bryanglm19941@hotmail.com</a> </li> </ul>
+<ul> <li> <strong>dirrecion:</strong>  managua nicaragua ciudad sandino </li> </ul>
+<ul> <li><strong>numero:</strong>7507787</li> </ul>
+</footer>
+
+
+
+  </body>
+</html>
